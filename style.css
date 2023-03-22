@@ -14,7 +14,7 @@
 }
 
 .calculator {
-    background: #3a4452;
+    background:#3a4452;
     padding: 1.2rem;
     border-radius: 0.7rem;
 }
@@ -45,12 +45,11 @@ form .display input {
     font-size: 2rem;
 }
 
-form input.clear {
+form input.clear{
     width: 6rem;
 
 }
-
-form input.equals {
+form input.equals{
     width: 6rem;
 
 }
